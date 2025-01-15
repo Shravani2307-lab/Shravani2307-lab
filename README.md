@@ -2,7 +2,7 @@
 
 # Welcome to Shravani2307-lab's GitHub Profile! 👋
 
-![Profile Banner](https://your-banner-image-url.com)
+![Profile Banner](backdrop)
 
 ## About Me
 
